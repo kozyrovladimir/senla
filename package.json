@@ -1,0 +1,31 @@
+{
+  "name": "senla",
+  "version": "1.0.0",
+  "description": "В этом репозитории находятся выполненные домашние задания к курсу компании Senla по React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozyrovladimir/senla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozyrovladimir/senla/issues"
+  },
+  "homepage": "https://github.com/kozyrovladimir/senla#readme",
+  "dependencies": {
+    "eslint": "^7.17.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^18.2.1",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-html": "^6.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
+}
